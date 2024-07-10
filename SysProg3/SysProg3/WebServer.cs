@@ -39,17 +39,13 @@ namespace SysProg3
         }
         private async void HandleRequest(HttpListenerContext context)
         {
-            var request = context.Request;
-            var response = context.Response;
-
-            if (request.HttpMethod == "GET")
+            if (context.Request.HttpMethod == "GET")
             {
                 var language = context.Request.RawUrl;
                 if (language == "/")
                 {
-                    response.StatusCode = (int)HttpStatusCode.BadRequest;
                     var buffer = Encoding.UTF8.GetBytes("Language parameter is required.");
-                    SendResponse(context, buffer, "text/html");
+                    SendResponse(context, buffer, "text/html", HttpStatusCode.BadRequest);
                 }
                 else
                 {

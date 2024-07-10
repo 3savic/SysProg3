@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hujk7kSM+NLUxajszyj+xLvQvui3RWScCnL1KUUdi7O2Isy/FuKcS9k4ahZTGCShrMcrgDGqJh66tdpk2D1ECA==",
+  "dgSpecHash": "bMPj/T0g54r7bHmRA057omhXWs11mpwngELuy0JmHT6QqTBVZwQPYr0LprvVSeIisrLAA2ssrOP8ghNqKwTOLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Savic\\source\\repos\\SysProg3\\SysProg3\\SysProg3.csproj",
+  "projectFilePath": "E:\\faks\\SysProg3\\SysProg3\\SysProg3\\SysProg3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Savic\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Savic\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

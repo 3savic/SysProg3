@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Savic\\source\\repos\\SysProg3\\SysProg3\\SysProg3.csproj": {}
+    "E:\\faks\\SysProg3\\SysProg3\\SysProg3\\SysProg3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Savic\\source\\repos\\SysProg3\\SysProg3\\SysProg3.csproj": {
+    "E:\\faks\\SysProg3\\SysProg3\\SysProg3\\SysProg3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Savic\\source\\repos\\SysProg3\\SysProg3\\SysProg3.csproj",
+        "projectUniqueName": "E:\\faks\\SysProg3\\SysProg3\\SysProg3\\SysProg3.csproj",
         "projectName": "SysProg3",
-        "projectPath": "C:\\Users\\Savic\\source\\repos\\SysProg3\\SysProg3\\SysProg3.csproj",
+        "projectPath": "E:\\faks\\SysProg3\\SysProg3\\SysProg3\\SysProg3.csproj",
         "packagesPath": "C:\\Users\\Savic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Savic\\source\\repos\\SysProg3\\SysProg3\\obj\\",
+        "outputPath": "E:\\faks\\SysProg3\\SysProg3\\SysProg3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
